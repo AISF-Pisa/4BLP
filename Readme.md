@@ -17,6 +17,9 @@ Solamente la versiona completa delle note e i codici qui presenti saranno aggior
 Di certo ci saranno typo, se li trovate e li comunicate non sarebbe male.
 Se aveste suggerimenti di argometi da trattare o da approfondire contattateci pure.
 
+Le dispense possono essere scaricate dalla sezione `Releases` selezionando l'anno accademico (Academic Year) d'interesse.
+
+
 ![](docs/pictures/fixing_problems.png)
 
 
