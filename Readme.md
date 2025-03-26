@@ -1,8 +1,10 @@
 # 4BLP
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ai-sf/pisa-eventi/main/4BLP/all/vignette/logo.png" alt="logo" width="250">
+  <img src="docs/pictures/logo.png" alt="logo" width="250">
 </p>
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 **4 BREVI LEZIONI DI PYTHON**
 
@@ -15,7 +17,7 @@ Solamente la versiona completa delle note e i codici qui presenti saranno aggior
 Di certo ci saranno typo, se li trovate e li comunicate non sarebbe male.
 Se aveste suggerimenti di argometi da trattare o da approfondire contattateci pure.
 
-![](vignette/fixing_problems.png)
+![](docs/pictures/fixing_problems.png)
 
 
-![](vignette/analisi.jpeg)
+![](docs/pictures/analisi.jpeg)
