@@ -11,8 +11,8 @@
 
 In questa repository sono raccolti i codici e le note scritte per il corso, sia base che avanzato.
 Sono presenti anche delle appendici facoltative che mi sono divertito a scrivere, e che ritengo possano risultare utili in un qualche modo (anche solo come breve introduzione di un argomento).
-Per quanto riguarda i pdf o i codice presenti nelle cartelle dei corsi veri e propri essi non sono aggiornati.
-Solamente la versiona completa delle note e i codici qui presenti saranno aggiornati al bisogno (cioè quando viene voglia di inserire argomenti nuovi).
+Per quanto riguarda i pdf o i codici presenti nelle cartelle dei corsi veri e propri (i.e. 00\_corso\_base e 01\_corso\_avanzato) essi non sono aggiornati.
+Solamente la versiona completa delle note e i codici presenti nelle altre varie cartelle saranno aggiornati al bisogno (cioè quando viene voglia di inserire argomenti nuovi).
 
 Di certo ci saranno typo, se li trovate e li comunicate non sarebbe male.
 Se aveste suggerimenti di argometi da trattare o da approfondire contattateci pure.
